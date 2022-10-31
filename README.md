@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Projeto data Ware House de votação</h1>
+  <h1>Projeto data warehouse de votação</h1>
 </div>
 
 </br>
